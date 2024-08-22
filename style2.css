@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 940px;
+    height: 600px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
